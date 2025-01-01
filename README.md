@@ -1,0 +1,1 @@
+This repository demonstrates a common mistake in Dockerfiles: using the `latest` tag for base images. This can lead to unexpected behavior and inconsistencies. The `Dockerfile` shows the problematic code.  The `Dockerfile-fixed` provides a solution using a specific version tag.
